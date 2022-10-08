@@ -1,0 +1,52 @@
+body{
+background:#333333;
+color: #fff;
+}
+.navbar{
+    border-bottom: 3px solid #007BFF;
+    background: #2f3031;
+    opacity: 0.7;
+}
+#home-section{
+    background: url(../img/home.jpg) no-repeat center top;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+#home-section .dark-overlay{
+    background: rgba(0,0,0,0.7);
+    min-height: 700px;
+
+}
+#home-section .home-inner{
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+#home-section .fas{
+    color: #008ed6;
+    background: #fff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+} 
+#explore-main-section .fas{
+    color: #fff;
+    background:#333333 ;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+#create-main-section .fas{
+    color: #fff;
+    background:#333333 ;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+#share-main-section .fas{
+    color: #fff;
+    background:#333333 ;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
